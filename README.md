@@ -11,7 +11,7 @@ Welcome to the repository for the landing  page. This project is designed to pro
 - **Styling**: TailwindCSS
 - **Animations**: Framer Motion
 
-# Getting Started
+## Getting Started
 
   To build and run this project:
 

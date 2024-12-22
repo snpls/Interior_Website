@@ -11,4 +11,12 @@ Welcome to the repository for the landing  page. This project is designed to pro
 - **Styling**: TailwindCSS
 - **Animations**: Framer Motion
 
+#Getting Started
+
+  To build and run this project:
+
+  1. Clone this repository
+  2. Run the command "npm install next" in terminal to install Next.js
+  3. Run "npm run dev", This starts the Next.js development server.
+
 ---
